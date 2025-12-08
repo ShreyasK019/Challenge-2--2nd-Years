@@ -60,7 +60,7 @@ The final key requires:
 
 **final_key should be:**
 
-<hex of clue1>-<clue2 repeated clue3 times>
+<hex_of_clue1>-<clue2_repeated_clue3_times>
 
 ---
 
