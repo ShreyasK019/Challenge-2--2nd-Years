@@ -28,6 +28,3 @@ Formula: <hex_of_clue1>-<clue2 repeated clue3 times>
 
 Final Key: *181-4444444*
 
-All code is inside solutions/.
-edanna readme.md li paste madu
-
